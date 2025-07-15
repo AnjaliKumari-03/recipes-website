@@ -1,0 +1,19 @@
+.favorites-page {
+  background: linear-gradient(135deg, #fffaf0, #fff0f5);
+  padding: 30px;
+  min-height: 100vh;
+}
+
+.page-title {
+  text-align: center;
+  font-size: 2.8rem;
+  color: #b22222;
+  margin-bottom: 30px;
+  font-family: "Georgia", serif;
+}
+
+.placeholder-text {
+  text-align: center;
+  color: #555;
+  font-size: 1.2rem;
+}

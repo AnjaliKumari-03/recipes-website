@@ -1,0 +1,29 @@
+.food {
+  padding: 30px;
+  background: linear-gradient(135deg, #fffaf0, #ffe4e1);
+  min-height: 100vh;
+}
+
+.page-title {
+  text-align: center;
+  font-size: 2.8rem;
+  color: #cc3300;
+  margin-bottom: 30px;
+  font-family: "Georgia", serif;
+}
+
+/* Recipe cards grid */
+.recipes-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+  gap: 25px;
+  margin-top: 20px;
+}
+
+/* No results message */
+.no-results {
+  text-align: center;
+  font-size: 1.2rem;
+  color: #666;
+  margin-top: 40px;
+}
