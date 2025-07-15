@@ -6,7 +6,7 @@ A modern, responsive recipe website built using **ReactJS (Vite)**, **HTML**, an
 
 ## 📁 Project Structure
 
-
+```bash
 recipe-website/
 ├── public/
 │   └── images/              # Recipe images
@@ -43,7 +43,7 @@ recipe-website/
 ├── index.html               # Root HTML file
 ├── vite.config.js           # Vite configuration
 └── README.md
-
+```
 
 ## 💡 Features
 
